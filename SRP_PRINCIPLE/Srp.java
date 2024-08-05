@@ -1,3 +1,4 @@
+package SRP_PRINCIPLE;
 /*Solid Principle : 
  1. A class should having only one responsibility or one reason to change.
    This means that the class should having one job or one responsibility.
